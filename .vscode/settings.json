@@ -1,0 +1,21 @@
+{
+    "git.ignoreLimitWarning": true,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "username": "chris",
+            "password": "Mw@s@ghu@",
+            "database": "House Price Prediction",
+            "connectionTimeout": 30,
+            "name": "mysql"
+        }
+    ]
+}
